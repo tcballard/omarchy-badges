@@ -11,28 +11,30 @@ Use the general badge for projects built with Omarchy in mind, or pick the categ
 | Badge | Use |
 | --- | --- |
 | [![Built for Omarchy](badges/v1/built-for-omarchy.svg)](badges/v1/built-for-omarchy.svg) | General projects, tools and integrations |
-| [![Omarchy Plugin](badges/v1/omarchy-plugin.svg)](badges/v1/omarchy-plugin.svg) | Shell plugins |
-| [![Omarchy App](badges/v1/omarchy-app.svg)](badges/v1/omarchy-app.svg) | Standalone applications and games |
-| [![Omarchy Theme](badges/v1/omarchy-theme.svg)](badges/v1/omarchy-theme.svg) | Omarchy colour schemes and themes |
+| [![Built for Omarchy: Plugin](badges/v1/omarchy-plugin.svg)](badges/v1/omarchy-plugin.svg) | Shell plugins |
+| [![Built for Omarchy: App](badges/v1/omarchy-app.svg)](badges/v1/omarchy-app.svg) | Standalone applications and games |
+| [![Built for Omarchy: Theme](badges/v1/omarchy-theme.svg)](badges/v1/omarchy-theme.svg) | Omarchy colour schemes and themes |
+
+Category boxes use sage for Plugin, blue for App and lavender for Theme. Each keeps the same dark “Built for Omarchy” section; the text identifies the category independently of colour.
 
 ### Category snippets
 
 **Omarchy Plugin**
 
 ```markdown
-[![Omarchy Plugin](https://raw.githubusercontent.com/tcballard/omarchy-badges/ddd835809cd2bcadb3b1d6337466ddd0a840a945/badges/v1/omarchy-plugin.svg)](https://github.com/tcballard/omarchy-badges)
+[![Built for Omarchy: Plugin](https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-plugin.svg)](https://github.com/tcballard/omarchy-badges)
 ```
 
 **Omarchy App**
 
 ```markdown
-[![Omarchy App](https://raw.githubusercontent.com/tcballard/omarchy-badges/ddd835809cd2bcadb3b1d6337466ddd0a840a945/badges/v1/omarchy-app.svg)](https://github.com/tcballard/omarchy-badges)
+[![Built for Omarchy: App](https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-app.svg)](https://github.com/tcballard/omarchy-badges)
 ```
 
 **Omarchy Theme**
 
 ```markdown
-[![Omarchy Theme](https://raw.githubusercontent.com/tcballard/omarchy-badges/ddd835809cd2bcadb3b1d6337466ddd0a840a945/badges/v1/omarchy-theme.svg)](https://github.com/tcballard/omarchy-badges)
+[![Built for Omarchy: Theme](https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg)](https://github.com/tcballard/omarchy-badges)
 ```
 
 ## Add the general badge to your README
@@ -57,8 +59,8 @@ The snippet pins the SVG to an exact Git commit. Its artwork will stay the same 
 
 The first design is also available at [badges/v1/built-for-omarchy.svg](badges/v1/built-for-omarchy.svg). Download it into your own repository if you prefer a local image.
 
-- All badges are 24 pixels tall; widths range from 125 to 164 pixels.
-- Each SVG is under 5 KB.
+- All badges are 24 pixels tall; the general badge is 164 pixels wide, with category badges from 208 to 228 pixels.
+- Each SVG is under 8 KB.
 - Official Omarchy icon, charcoal background and warm ivory lettering.
 - JetBrains Mono Medium lettering stored as vector shapes.
 - No external fonts, scripts or image dependencies.
