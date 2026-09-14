@@ -41,9 +41,9 @@ Category boxes use sage for Plugin, blue for App and lavender for Theme. Each ke
 
 Place a separate compatibility badge beside your identity badge:
 
-![Built for Omarchy: Plugin](badges/v1/omarchy-plugin.svg) ![Supported Omarchy versions: 4.x](badges/v1/compatibility/omarchy-4.x.svg)
+![Built for Omarchy: Plugin](badges/v1/omarchy-plugin.svg) ![Supported Omarchy versions: 4.0.0+](badges/v1/compatibility/omarchy-4.0.0-plus.svg)
 
-Available presets: `4.x` and `≥4.0.3 <5`. These indicate maintainer-declared
+Available presets: `4.0.0+`, `4.x` and `≥4.0.3 <5`. These indicate maintainer-declared
 support, not versions automatically tested or certified. Keep exact test
 versions and evidence in your project's README.
 
