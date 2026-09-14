@@ -71,9 +71,9 @@ The snippet pins the SVG to an exact Git commit. Its artwork will stay the same 
 
 The first design is also available at [badges/v1/built-for-omarchy.svg](badges/v1/built-for-omarchy.svg). Download it into your own repository if you prefer a local image.
 
-- All badges are 24 pixels tall. Identity badges are 164–228 pixels wide; compatibility badges are 115–155 pixels wide.
+- All badges are 24 pixels tall. Identity badges are 164–228 pixels wide; compatibility badges are 139–179 pixels wide.
 - Each SVG is under 8 KB.
-- Identity badges use the official Omarchy icon. Compatibility badges use a neutral version box.
+- All badges use the official Omarchy icon. Compatibility badges use a neutral version box.
 - Shared charcoal and warm ivory palette.
 - JetBrains Mono Medium lettering stored as vector shapes.
 - No external fonts, scripts or image dependencies.
