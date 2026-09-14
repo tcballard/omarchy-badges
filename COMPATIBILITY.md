@@ -33,20 +33,20 @@ a `Compatibility` section in your own README.
 **Supports 4.x**
 
 ```markdown
-[![Supported Omarchy versions: 4.x](https://raw.githubusercontent.com/tcballard/omarchy-badges/13894b1ad84089164fe8906aca661eea4d48171d/badges/v1/compatibility/omarchy-4.x.svg)](#compatibility)
+[![Supported Omarchy versions: 4.x](https://raw.githubusercontent.com/tcballard/omarchy-badges/8b0189738018961c1bd275d903dd37ceed6bf6ae/badges/v1/compatibility/omarchy-4.x.svg)](#compatibility)
 ```
 
 **Supports at least 4.0.3, below 5**
 
 ```markdown
-[![Supported Omarchy versions: at least 4.0.3 and below 5](https://raw.githubusercontent.com/tcballard/omarchy-badges/13894b1ad84089164fe8906aca661eea4d48171d/badges/v1/compatibility/omarchy-4.0.3-to-5.svg)](#compatibility)
+[![Supported Omarchy versions: at least 4.0.3 and below 5](https://raw.githubusercontent.com/tcballard/omarchy-badges/8b0189738018961c1bd275d903dd37ceed6bf6ae/badges/v1/compatibility/omarchy-4.0.3-to-5.svg)](#compatibility)
 ```
 
 **Complete pair**
 
 ```markdown
 [![Built for Omarchy: Plugin](https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-plugin.svg)](https://github.com/tcballard/omarchy-badges)
-[![Supported Omarchy versions: 4.x](https://raw.githubusercontent.com/tcballard/omarchy-badges/13894b1ad84089164fe8906aca661eea4d48171d/badges/v1/compatibility/omarchy-4.x.svg)](#compatibility)
+[![Supported Omarchy versions: 4.x](https://raw.githubusercontent.com/tcballard/omarchy-badges/8b0189738018961c1bd275d903dd37ceed6bf6ae/badges/v1/compatibility/omarchy-4.x.svg)](#compatibility)
 ```
 
 Add the destination section, replacing placeholders with your actual policy and
