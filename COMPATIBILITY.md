@@ -24,6 +24,16 @@ release in that range has been tested. If you have tested only one version and
 cannot claim a broader range, document that exact result rather than choosing
 a broad support badge.
 
+## Omarchy 4.0.0 and later
+
+The `4.0.0+` preset means stable Omarchy 4.0.0 and later, with no upper major-version bound. Use it only for an open-ended support policy. It is not evidence that future versions have been tested. Prereleases remain excluded unless explicitly documented.
+
+[![Supported Omarchy versions: 4.0.0+](badges/v1/compatibility/omarchy-4.0.0-plus.svg)](#compatibility)
+
+```markdown
+[![Supported Omarchy versions: 4.0.0+](https://raw.githubusercontent.com/tcballard/omarchy-badges/dd84bb21f19caf617caa5b3c1af7ff3c6cb847c3/badges/v1/compatibility/omarchy-4.0.0-plus.svg)](#compatibility)
+```
+
 ## Copy into your README
 
 Place the compatibility badge beside your existing Plugin, App, Theme or
