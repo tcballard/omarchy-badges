@@ -37,6 +37,18 @@ Category boxes use sage for Plugin, blue for App and lavender for Theme. Each ke
 [![Built for Omarchy: Theme](https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg)](https://github.com/tcballard/omarchy-badges)
 ```
 
+## Signal version support
+
+Place a separate compatibility badge beside your identity badge:
+
+![Built for Omarchy: Plugin](badges/v1/omarchy-plugin.svg) ![Supported Omarchy versions: 4.x](badges/v1/compatibility/omarchy-4.x.svg)
+
+Available presets: `4.x` and `≥4.0.3 <5`. These indicate maintainer-declared
+support, not versions automatically tested or certified. Keep exact test
+versions and evidence in your project's README.
+
+[Choose a range and copy the snippets](COMPATIBILITY.md).
+
 ## Add the general badge to your README
 
 Copy this line below your project title:
@@ -59,9 +71,10 @@ The snippet pins the SVG to an exact Git commit. Its artwork will stay the same 
 
 The first design is also available at [badges/v1/built-for-omarchy.svg](badges/v1/built-for-omarchy.svg). Download it into your own repository if you prefer a local image.
 
-- All badges are 24 pixels tall; the general badge is 164 pixels wide, with category badges from 208 to 228 pixels.
+- All badges are 24 pixels tall. Identity badges are 164–228 pixels wide; compatibility badges are 115–155 pixels wide.
 - Each SVG is under 8 KB.
-- Official Omarchy icon, charcoal background and warm ivory lettering.
+- Identity badges use the official Omarchy icon. Compatibility badges use a neutral version box.
+- Shared charcoal and warm ivory palette.
 - JetBrains Mono Medium lettering stored as vector shapes.
 - No external fonts, scripts or image dependencies.
 - Accessible title and image label.
